@@ -68,3 +68,84 @@ Project inquiry form for gaming services
 
 
 DoubleAceGaming.com
+
+suggestions:
+🎨 Logo & Brand Identity
+
+Brand Name: Twin Power
+Slogan: Game Smart · Play Strong
+
+Brand Colors:
+
+🔵 Primary Blue – gaming / tech
+
+🟢 Secondary Green – tennis / fitness
+
+⚫ Dark – strength & focus
+
+⚪ Light – clean, modern contrast
+
+This gives you a strong mind + body brand story.
+
+🎾 Tennis Booking Form (Added)
+
+Name
+
+Email
+
+Preferred date
+
+Skill level / goals
+✔ Ready to connect to email, Google Forms, or booking software
+✔ Perfect for local clients
+
+🎮 Gaming Service / Project Form (Added)
+
+Client or company name
+
+Email
+
+Project description
+✔ Ideal for indie devs, startups, or consulting clients
+
+📍 SEO + Local Coaching Setup
+
+SEO added:
+
+Page title optimized for tennis + gaming
+
+Meta description
+
+Keywords for local tennis coaching & gaming services
+
+Google Maps embedded:
+
+Shows tennis court location
+
+Ready to replace with your exact city/court
+
+Helps with local Google search ranking
+
+🚀 What You Can Do Next (Recommended)
+
+Replace Google Maps link with your exact location
+
+Connect forms to:
+
+Email (Formspree)
+
+Google Forms
+
+Calendly (for tennis bookings)
+
+Create a Google Business Profile (huge for local tennis SEO)
+
+Buy domain (example):
+
+twinpower.co
+
+twinpowerstudio.com
+
+twinplaypower.com
+
+
